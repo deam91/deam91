@@ -10,7 +10,7 @@ I've been coding for 8 years. Started as a backend developer with Node.js and Dj
 * 🖥️  See my portfolio at [deamdeveloper.de](http://deamdeveloper.de)
 * ✉️  You can contact me at [deamdiaz27@gmail.com](mailto:deamdiaz27@gmail.com)
 * 🧠  I'm learning Flame Engine 🔥
-* 🤝  I'm open to collaborating on any Flutter/Dart project 💙
+* 🤝  I'm open to collaborate on any Flutter/Dart project 💙
 
 <a href="https://www.github.com/deam91" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/deam91?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/deamdeveloper" target="_blank" rel="noreferrer"><img
