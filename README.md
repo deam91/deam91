@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been coding for 8 years. Started as a backend developer with Node.js and Django, explored frontend development with Angular around 5 years ago, and finally, found my passion as a mobile/multiplatform developer with Dart/Flutter, 3 years ago.
+I've been coding for 8 years. Started as a backend developer with Node.js and Django, explored frontend development with Angular around 5 years ago, and finally, found my passion as a mobile/multiplatform developer with Dart/Flutter, 3 years ago. AWS forever ;)
 
 * 🌍  I'm based in Havana City
 * 🖥️  See my portfolio at [deamdeveloper.de](http://deamdeveloper.de)
