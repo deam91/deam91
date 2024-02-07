@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been coding for 8 years. Started as a backend developer with Node.js and Django, explored frontend development with Angular around 5 years ago, and finally, found my passion as a mobile/multiplatform developer with Dart/Flutter, 3 years ago. AWS forever ;)
+I've been coding for 9 years. Started as a backend developer with Node.js and Django, explored frontend development with Angular around 6 years ago, and finally, found my passion as a mobile/multiplatform developer with Dart/Flutter, 4 years ago. AWS forever ;)
 
 * 🌍  I'm based in Havana City
 * 🖥️  See my portfolio at [deamdeveloper.de](http://deamdeveloper.de)
 * ✉️  You can contact me at [deamdiaz27@gmail.com](mailto:deamdiaz27@gmail.com)
 * 🧠  I'm learning Flame Engine 🔥
-* 🤝  I'm open to collaborate on any Flutter/Dart project 💙
+* 🤝  I'm open to collaborating on any Flutter/Dart project 💙
 
 <a href="https://www.github.com/deam91" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/deam91?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/deamdeveloper" target="_blank" rel="noreferrer"><img
